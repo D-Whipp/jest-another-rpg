@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "game created with oop/tdd ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Whipp/jest-another-rpg.git"
+  },
+  "author": "David Whipple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D-Whipp/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/D-Whipp/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
